@@ -1,6 +1,6 @@
 package utils;
 
 
-public Cart{
+public class Cart{
  //From github 
 }
