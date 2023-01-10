@@ -10,5 +10,5 @@ public class Contacts{
 	
 	// some things
 
-
+	// add new functions
 }
