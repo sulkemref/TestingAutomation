@@ -12,4 +12,6 @@ public class HomePageUtils {
 	//more methods
 	
 	// add more methods
+
+	// add some blocks
 }
